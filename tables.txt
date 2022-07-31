@@ -1,0 +1,4 @@
+books - PK ISBN
+customers - PK CUST_ID
+orders - PK ORDER_ID
+
