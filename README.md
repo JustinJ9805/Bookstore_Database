@@ -3,7 +3,7 @@
 ## Term project for CSCI-43500
 
 ### Contributors
-- Justin Too
+- Justin John
 - Guy Matz
 
 ### Description
@@ -15,5 +15,7 @@ A simple database to keep track of books in a bookstore, along with customers an
 - [ ] Attributes & Foreign Keys
 - [ ] ER Diagram
 - [ ] SQL
+
+
 
 
