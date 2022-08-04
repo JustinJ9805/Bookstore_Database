@@ -1,4 +1,5 @@
 books - PK ISBN
 customers - PK CUST_ID
 orders - PK ORDER_ID
-
+reviews - PK: USER_ID + BOOK_ID
+order_books
