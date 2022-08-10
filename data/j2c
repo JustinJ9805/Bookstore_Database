@@ -1,0 +1,25 @@
+#!/usr/bin/env python
+
+import csv, json, sys
+
+input = open(sys.argv[1])
+data = json.load(input)
+input.close()
+
+output = csv.writer(sys.stdout)
+
+headers = list(data[0].keys())
+for h in headers:
+    if isinstance(data[0][h], dict):
+        headers = headers + list(data[0][h].keys())
+        headers.remove(h)
+
+output.writerow(headers)  # header row
+
+for row in data:
+    record = row.copy()
+    for r in row.keys():
+        if isinstance(row[r], dict):
+            record.update(row[r])
+            record.pop(r)
+    output.writerow(record.values())
