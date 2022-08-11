@@ -1,0 +1,402 @@
+[
+  {
+    "title": "Expert Oracle Database Architecture, 2nd Edition",
+    "subtitle": "Oracle Database Programming 9i, 10g, and 11g Techniques and Solutions",
+    "isbn13": "9781430229469",
+    "price": "$34.85",
+    "image": "https://itbook.store/img/books/9781430229469.png",
+    "url": "https://itbook.store/books/9781430229469"
+  },
+  {
+    "title": "Expert Indexing in Oracle Database 11g",
+    "subtitle": "Maximum Performance for Your Database",
+    "isbn13": "9781430237358",
+    "price": "$49.99",
+    "image": "https://itbook.store/img/books/9781430237358.png",
+    "url": "https://itbook.store/books/9781430237358"
+  },
+  {
+    "title": "Databases for Small Business",
+    "subtitle": "Essentials of Database Management, Data Analysis, and Staff Training for Entrepreneurs and Professionals",
+    "isbn13": "9781484202784",
+    "price": "$49.85",
+    "image": "https://itbook.store/img/books/9781484202784.png",
+    "url": "https://itbook.store/books/9781484202784"
+  },
+  {
+    "title": "Next Generation Databases: NoSQL, NewSQL, and Big Data",
+    "subtitle": "What every professional needs to know about the future of databases in a world of NoSQL and Big Data",
+    "isbn13": "9781484213308",
+    "price": "$30.80",
+    "image": "https://itbook.store/img/books/9781484213308.png",
+    "url": "https://itbook.store/books/9781484213308"
+  },
+  {
+    "title": "Practical PHP 7, MySQL 8, and MariaDB Website Databases",
+    "subtitle": "A Simplified Approach to Developing Database-Driven Websites",
+    "isbn13": "9781484238424",
+    "price": "$36.97",
+    "image": "https://itbook.store/img/books/9781484238424.png",
+    "url": "https://itbook.store/books/9781484238424"
+  },
+  {
+    "title": "Database Reliability Engineering",
+    "subtitle": "Designing and Operating Resilient Database Systems",
+    "isbn13": "9781491925942",
+    "price": "$40.71",
+    "image": "https://itbook.store/img/books/9781491925942.png",
+    "url": "https://itbook.store/books/9781491925942"
+  },
+  {
+    "title": "Seven Databases in Seven Weeks, 2nd Edition",
+    "subtitle": "A Guide to Modern Databases and the NoSQL Movement",
+    "isbn13": "9781680502534",
+    "price": "$28.50",
+    "image": "https://itbook.store/img/books/9781680502534.png",
+    "url": "https://itbook.store/books/9781680502534"
+  },
+  {
+    "title": "Professional Azure SQL Database Administration",
+    "subtitle": "Equip Yourself with the Skills You Need to Manage and Maintain Your SQL Databases on the Microsoft Cloud",
+    "isbn13": "9781789538854",
+    "price": "$49.99",
+    "image": "https://itbook.store/img/books/9781789538854.png",
+    "url": "https://itbook.store/books/9781789538854"
+  },
+  {
+    "title": "EJB 3.0 Database Persistence with Oracle Fusion Middleware 11g",
+    "subtitle": "A complete guide to EJB 3.0 database persistence with Oracle Fusion Middleware 11g",
+    "isbn13": "9781849681568",
+    "price": "$5.79",
+    "image": "https://itbook.store/img/books/9781849681568.png",
+    "url": "https://itbook.store/books/9781849681568"
+  },
+  {
+    "title": "Oracle Database 11gR2 Performance Tuning Cookbook",
+    "subtitle": "Over 80 recipes to help beginners achieve better performance from Oracle Database applications",
+    "isbn13": "9781849682602",
+    "price": "$32.99",
+    "image": "https://itbook.store/img/books/9781849682602.png",
+    "url": "https://itbook.store/books/9781849682602"
+  },
+  {
+    "title": "Oracle Database and PowerShell How-to",
+    "subtitle": "Utilize the power of Microsoft's powerful scripting engine to automate database tasks with Oracle from PowerShell",
+    "isbn13": "9781849688581",
+    "price": "$19.99",
+    "image": "https://itbook.store/img/books/9781849688581.png",
+    "url": "https://itbook.store/books/9781849688581"
+  },
+  {
+    "title": "Seven Databases in Seven Weeks",
+    "subtitle": "A Guide to Modern Databases and the NoSQL Movement",
+    "isbn13": "9781934356920",
+    "price": "$12.59",
+    "image": "https://itbook.store/img/books/9781934356920.png",
+    "url": "https://itbook.store/books/9781934356920"
+  },
+  {
+    "title": "Graph Databases For Beginners",
+    "subtitle": "The #1 Platform for Connected Data",
+    "isbn13": "1001606307637",
+    "price": "$0.00",
+    "image": "https://itbook.store/img/books/1001606307637.png",
+    "url": "https://itbook.store/books/1001606307637"
+  },
+  {
+    "title": "Oracle Database Notes for Professionals",
+    "subtitle": "",
+    "isbn13": "1001650967726",
+    "price": "$0.00",
+    "image": "https://itbook.store/img/books/1001650967726.png",
+    "url": "https://itbook.store/books/1001650967726"
+  },
+  {
+    "title": "Database Design, 2nd Edition",
+    "subtitle": "",
+    "isbn13": "1001656510245",
+    "price": "$0.00",
+    "image": "https://itbook.store/img/books/1001656510245.png",
+    "url": "https://itbook.store/books/1001656510245"
+  },
+  {
+    "title": "The Definitive Guide to Graph Databases",
+    "subtitle": "for the RDBMS Developer",
+    "isbn13": "1001658411061",
+    "price": "$0.00",
+    "image": "https://itbook.store/img/books/1001658411061.png",
+    "url": "https://itbook.store/books/1001658411061"
+  },
+  {
+    "title": "Databases: A Beginner's Guide",
+    "subtitle": "",
+    "isbn13": "9780071608473",
+    "price": "$24.99",
+    "image": "https://itbook.store/img/books/9780071608473.png",
+    "url": "https://itbook.store/books/9780071608473"
+  },
+  {
+    "title": "Oracle Database 12c Release 2 Real Application Clusters Handbook",
+    "subtitle": "Concepts, Administration, Tuning & Troubleshooting",
+    "isbn13": "9780071830485",
+    "price": "$38.21",
+    "image": "https://itbook.store/img/books/9780071830485.png",
+    "url": "https://itbook.store/books/9780071830485"
+  },
+  {
+    "title": "Database Systems, 4th Edition",
+    "subtitle": "A Practical Approach to Design, Implementation and Management",
+    "isbn13": "9780321210258",
+    "price": "$9.07",
+    "image": "https://itbook.store/img/books/9780321210258.png",
+    "url": "https://itbook.store/books/9780321210258"
+  },
+  {
+    "title": "Beginning Database Design Solutions",
+    "subtitle": "",
+    "isbn13": "9780470385494",
+    "price": "$29.62",
+    "image": "https://itbook.store/img/books/9780470385494.png",
+    "url": "https://itbook.store/books/9780470385494"
+  },
+  {
+    "title": "Expert One-on-One Visual Basic 2005 Database Programming",
+    "subtitle": "",
+    "isbn13": "9780471785132",
+    "price": "$0.00",
+    "image": "https://itbook.store/img/books/9780471785132.png",
+    "url": "https://itbook.store/books/9780471785132"
+  },
+  {
+    "title": "Database Nation",
+    "subtitle": "The Death of Privacy in the 21st Century",
+    "isbn13": "9780596001056",
+    "price": "$3.59",
+    "image": "https://itbook.store/img/books/9780596001056.png",
+    "url": "https://itbook.store/books/9780596001056"
+  },
+  {
+    "title": "Access Database Design & Programming, 3rd Edition",
+    "subtitle": "",
+    "isbn13": "9780596002732",
+    "price": "$2.99",
+    "image": "https://itbook.store/img/books/9780596002732.png",
+    "url": "https://itbook.store/books/9780596002732"
+  },
+  {
+    "title": "Understanding MySQL Internals",
+    "subtitle": "Discovering and Improving a Great Database",
+    "isbn13": "9780596009571",
+    "price": "$32.11",
+    "image": "https://itbook.store/img/books/9780596009571.png",
+    "url": "https://itbook.store/books/9780596009571"
+  },
+  {
+    "title": "Learning PHP & MySQL, 2nd Edition",
+    "subtitle": "Step-by-Step Guide to Creating Database-Driven Web Sites",
+    "isbn13": "9780596514013",
+    "price": "$3.74",
+    "image": "https://itbook.store/img/books/9780596514013.png",
+    "url": "https://itbook.store/books/9780596514013"
+  },
+  {
+    "title": "Oracle Essentials, 4th Edition",
+    "subtitle": "Oracle Database 11g",
+    "isbn13": "9780596514549",
+    "price": "$3.74",
+    "image": "https://itbook.store/img/books/9780596514549.png",
+    "url": "https://itbook.store/books/9780596514549"
+  },
+  {
+    "title": "Essential SQLAlchemy",
+    "subtitle": "Mapping Python to Databases",
+    "isbn13": "9780596516147",
+    "price": "$14.01",
+    "image": "https://itbook.store/img/books/9780596516147.png",
+    "url": "https://itbook.store/books/9780596516147"
+  },
+  {
+    "title": "Microsoft Azure SQL Database Step by Step",
+    "subtitle": "",
+    "isbn13": "9780735679429",
+    "price": "$26.85",
+    "image": "https://itbook.store/img/books/9780735679429.png",
+    "url": "https://itbook.store/books/9780735679429"
+  },
+  {
+    "title": "Microsoft Exchange Server 2013 Pocket Consultant: Databases, Services, & Management",
+    "subtitle": "",
+    "isbn13": "9780735681750",
+    "price": "$19.79",
+    "image": "https://itbook.store/img/books/9780735681750.png",
+    "url": "https://itbook.store/books/9780735681750"
+  },
+  {
+    "title": "Beginning Database Design",
+    "subtitle": "",
+    "isbn13": "9780764574900",
+    "price": "$4.99",
+    "image": "https://itbook.store/img/books/9780764574900.png",
+    "url": "https://itbook.store/books/9780764574900"
+  },
+  {
+    "title": "Build Your Own Database Driven Web Site Using PHP & MySQL, 4th Edition",
+    "subtitle": "",
+    "isbn13": "9780980576818",
+    "price": "$10.95",
+    "image": "https://itbook.store/img/books/9780980576818.png",
+    "url": "https://itbook.store/books/9780980576818"
+  },
+  {
+    "title": "PHP & MySQL: Novice to Ninja, 5th Edition",
+    "subtitle": "The Easy Way to Build Your Own Database Driven Website",
+    "isbn13": "9780987153081",
+    "price": "$5.53",
+    "image": "https://itbook.store/img/books/9780987153081.png",
+    "url": "https://itbook.store/books/9780987153081"
+  },
+  {
+    "title": "How To Manage a Redis Database",
+    "subtitle": "",
+    "isbn13": "9780999773079",
+    "price": "$0.00",
+    "image": "https://itbook.store/img/books/9780999773079.png",
+    "url": "https://itbook.store/books/9780999773079"
+  },
+  {
+    "title": "Modern Mainframe Development",
+    "subtitle": "COBOL, Databases, and Next-Generation Approaches",
+    "isbn13": "9781098107024",
+    "price": "$50.89",
+    "image": "https://itbook.store/img/books/9781098107024.png",
+    "url": "https://itbook.store/books/9781098107024"
+  },
+  {
+    "title": "Oracle Database Performance and Scalability",
+    "subtitle": "A Quantitative Approach",
+    "isbn13": "9781118056998",
+    "price": "$87.99",
+    "image": "https://itbook.store/img/books/9781118056998.png",
+    "url": "https://itbook.store/books/9781118056998"
+  },
+  {
+    "title": "Practical Database Programming with Visual Basic.NET, 2nd Edition",
+    "subtitle": "",
+    "isbn13": "9781118162057",
+    "price": "$59.45",
+    "image": "https://itbook.store/img/books/9781118162057.png",
+    "url": "https://itbook.store/books/9781118162057"
+  },
+  {
+    "title": "Professional iOS Database Application Programming, 2nd Edition",
+    "subtitle": "",
+    "isbn13": "9781118391846",
+    "price": "$5.99",
+    "image": "https://itbook.store/img/books/9781118391846.png",
+    "url": "https://itbook.store/books/9781118391846"
+  },
+  {
+    "title": "Introductory Relational Database Design for Business",
+    "subtitle": "with Microsoft Access",
+    "isbn13": "9781119329411",
+    "price": "$80.00",
+    "image": "https://itbook.store/img/books/9781119329411.png",
+    "url": "https://itbook.store/books/9781119329411"
+  },
+  {
+    "title": "Access 2019 For Dummies",
+    "subtitle": "Easy steps to practical databases",
+    "isbn13": "9781119513261",
+    "price": "$20.92",
+    "image": "https://itbook.store/img/books/9781119513261.png",
+    "url": "https://itbook.store/books/9781119513261"
+  },
+  {
+    "title": "The Relational Database Dictionary, Extended Edition",
+    "subtitle": "",
+    "isbn13": "9781430210412",
+    "price": "$16.51",
+    "image": "https://itbook.store/img/books/9781430210412.png",
+    "url": "https://itbook.store/books/9781430210412"
+  },
+  {
+    "title": "Expert Oracle Practices",
+    "subtitle": "Oracle Database Administration from the Oak Table",
+    "isbn13": "9781430226680",
+    "price": "$19.01",
+    "image": "https://itbook.store/img/books/9781430226680.png",
+    "url": "https://itbook.store/books/9781430226680"
+  },
+  {
+    "title": "Pro ODP.NET for Oracle Database 11g",
+    "subtitle": "",
+    "isbn13": "9781430228202",
+    "price": "$49.99",
+    "image": "https://itbook.store/img/books/9781430228202.png",
+    "url": "https://itbook.store/books/9781430228202"
+  },
+  {
+    "title": "Pro Oracle Database 11g RAC on Linux, 2nd Edition",
+    "subtitle": "Installation, Administration, Performance",
+    "isbn13": "9781430229582",
+    "price": "$29.95",
+    "image": "https://itbook.store/img/books/9781430229582.png",
+    "url": "https://itbook.store/books/9781430229582"
+  },
+  {
+    "title": "The Definitive Guide to MongoDB",
+    "subtitle": "The NoSQL Database for Cloud and Desktop Computing",
+    "isbn13": "9781430230519",
+    "price": "$39.99",
+    "image": "https://itbook.store/img/books/9781430230519.png",
+    "url": "https://itbook.store/books/9781430230519"
+  },
+  {
+    "title": "Oracle Database 11g Performance Tuning Recipes",
+    "subtitle": "A Problem-Solution Approach",
+    "isbn13": "9781430236627",
+    "price": "$50.66",
+    "image": "https://itbook.store/img/books/9781430236627.png",
+    "url": "https://itbook.store/books/9781430236627"
+  },
+  {
+    "title": "Pro SQL Server 2012 Relational Database Design and Implementation",
+    "subtitle": "",
+    "isbn13": "9781430236955",
+    "price": "$31.12",
+    "image": "https://itbook.store/img/books/9781430236955.png",
+    "url": "https://itbook.store/books/9781430236955"
+  },
+  {
+    "title": "Expert Oracle and Java Security",
+    "subtitle": "Programming Secure Oracle Database Applications With Java",
+    "isbn13": "9781430238317",
+    "price": "$46.78",
+    "image": "https://itbook.store/img/books/9781430238317.png",
+    "url": "https://itbook.store/books/9781430238317"
+  },
+  {
+    "title": "Beginning Database Design, 2nd Edition",
+    "subtitle": "From Novice to Professional",
+    "isbn13": "9781430242093",
+    "price": "$21.26",
+    "image": "https://itbook.store/img/books/9781430242093.png",
+    "url": "https://itbook.store/books/9781430242093"
+  },
+  {
+    "title": "Beginning C# 5.0 Databases, 2nd Edition",
+    "subtitle": "",
+    "isbn13": "9781430242604",
+    "price": "$49.99",
+    "image": "https://itbook.store/img/books/9781430242604.png",
+    "url": "https://itbook.store/books/9781430242604"
+  },
+  {
+    "title": "Beginning ASP.NET 4.5 Databases, 3rd Edition",
+    "subtitle": "",
+    "isbn13": "9781430243809",
+    "price": "$44.99",
+    "image": "https://itbook.store/img/books/9781430243809.png",
+    "url": "https://itbook.store/books/9781430243809"
+  }
+]
