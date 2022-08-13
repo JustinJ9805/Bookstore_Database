@@ -5,6 +5,6 @@ create table books (
   price float,
   image varchar(128),
   url varchar(128),
-  book_id int auto_increment,
-  primary key(book_id)
+  id int auto_increment,
+  primary key(id)
 );

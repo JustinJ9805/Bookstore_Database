@@ -1,5 +1,5 @@
 create table users (
-  user_id int auto_increment,
+  id int auto_increment,
   name varchar(32),
   username varchar(32),
   email varchar(32),
@@ -13,5 +13,5 @@ create table users (
   company_name varchar(32),
   company_catchPhrase varchar(32),
   company_bs varchar(32),
-  primary key (user_id)
+  primary key (id)
 );
