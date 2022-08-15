@@ -6,6 +6,7 @@ create table books (
   price float,
   image varchar(128),
   url varchar(128),
-  primary key(id)
-
+  genre_id int,
+  primary key(id),
+  foreign key (genre_id) references genres(id)
 );
