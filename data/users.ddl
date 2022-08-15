@@ -13,5 +13,5 @@ create table users (
   company_name varchar(32),
   company_catchPhrase varchar(32),
   company_bs varchar(32),
-  primary key (id)
+  primary key(id)
 );
