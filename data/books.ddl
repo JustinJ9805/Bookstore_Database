@@ -6,6 +6,7 @@ create table books (
   price float,
   image varchar(128),
   url varchar(128),
+  inventory_count INT 
   primary key(id)
-
+  
 );
