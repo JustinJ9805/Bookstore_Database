@@ -1,5 +1,5 @@
 -- mysql wouldn't let me load data without this
-drop database bookstore;
+drop database if exists bookstore;
 create database bookstore;
 use bookstore;
 
