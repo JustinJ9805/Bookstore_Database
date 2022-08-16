@@ -1,0 +1,27 @@
+select b.title as book_title,
+    u.username username,
+    u.email email,
+    r.stars stars
+from books as b
+join reviews r on b.id=r.book_id
+join users u on r.user_id=u.id
+join genres g on b.genre_id=g.id
+where u.pref_genre=g.id
+  and
+r.stars >=4
+order by username
+
+
+UPDATE orders o
+INNER JOIN
+(
+   SELECT ob.order_id order_id, SUM(b.price) 'sumu'
+   FROM
+   order_books ob
+   join orders o on ob.order_id=o.id
+   join books b on ob.book_id=b.id
+   GROUP BY order_id
+) i ON o.id = i.order_id
+SET
+  o.total = i.sumu,
+  o.tax = i.sumu * 0.0825
