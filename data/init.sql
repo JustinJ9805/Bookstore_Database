@@ -47,3 +47,18 @@ load data local infile 'reviews.csv'
     fields terminated by ',' optionally enclosed by '"'
     lines terminated by '\n'
     ignore 1 rows;
+
+-- update totals & taxes in orders table
+UPDATE orders o
+INNER JOIN
+(
+   SELECT ob.order_id order_id, SUM(b.price) 'sumu'
+   FROM
+   order_books ob
+   join orders o on ob.order_id=o.id
+   join books b on ob.book_id=b.id
+   GROUP BY order_id
+) i ON o.id = i.order_id
+SET
+  o.total = i.sumu,
+  o.tax = i.sumu * 0.0825
