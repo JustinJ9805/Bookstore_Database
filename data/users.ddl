@@ -12,6 +12,8 @@ create table users (
   geo varchar(32),
   company_name varchar(32),
   company_catchPhrase varchar(32),
-  company_bs varchar(32),
-  primary key(id)
+  -- company_bs varchar(32),
+  pref_genre int,
+  primary key(id),
+  foreign key (pref_genre) references genres(id)
 );
